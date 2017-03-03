@@ -1,0 +1,63 @@
+{
+    "fileType": "GeoFence",
+    "groundStation": "QGroundControl",
+    "parameters": [
+        {
+            "compId": 1,
+            "name": "FENCE_ENABLE",
+            "value": 1
+        },
+        {
+            "compId": 1,
+            "name": "FENCE_TYPE",
+            "value": 4
+        },
+        {
+            "compId": 1,
+            "name": "FENCE_ACTION",
+            "value": 0
+        },
+        {
+            "compId": 1,
+            "name": "FENCE_ALT_MAX",
+            "value": 25
+        },
+        {
+            "compId": 1,
+            "name": "FENCE_RADIUS",
+            "value": 0
+        },
+        {
+            "compId": 1,
+            "name": "FENCE_MARGIN",
+            "value": 0
+        }
+    ],
+    "polygon": [
+        [
+            45.537970983119124,
+            -123.13402653384597
+        ],
+        [
+            45.53756611797391,
+            -123.13386565689397
+        ],
+        [
+            45.537271750440162,
+            -123.13394173324734
+        ],
+        [
+            45.537145891471923,
+            -123.13393784883533
+        ],
+        [
+            45.537145055389459,
+            -123.13334405138551
+        ],
+        [
+            45.538053711974932,
+            -123.13349078284833
+        ]
+    ],
+    "version": 1
+}
